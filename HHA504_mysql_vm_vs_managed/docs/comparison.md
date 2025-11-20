@@ -1,1 +1,3 @@
 A short paragraph on which you would choose in production and why
+
+Using MySQL on a VM took more manual steps and caused more errors. I had to install MySQL myself, fix service issues, edit the config file, open firewall ports, set users, and debug connection problems. Small mistakes caused failures, like wrong bind-address, wrong port, and permission issues. Managed MySQL on Cloud SQL was easier because the database service was already installed and secured. I only set the admin password, network rule, and user. Most errors came from networking or SSL, not from the database setup itself. Overall, the VM required more work and more troubleshooting, while Cloud SQL needed fewer steps and was faster to connect once the IP and user were correct.
