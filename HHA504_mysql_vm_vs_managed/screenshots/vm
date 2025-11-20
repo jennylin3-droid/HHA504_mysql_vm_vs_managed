@@ -1,14 +1,15 @@
-#firewall
-HHA504_mysql_vm_vs_managed/screenshots/firewall.png
 
-#running ssh
-![running SSH](runningSSH.png)
+# Firewall
+![Firewall settings](../firewall.png)
 
-#SSHlogin
-![SSHpassword](SSHpassword.png)
+# Running SSH
+![Running SSH](../runningSSH.png)
 
-#VM TABLE
-![VM TABLE](<VM TABLE.png>)
+# SSH Login
+![SSH Password prompt](../SSHpassword.png)
 
-#VM DEMO
-![VM DEMO](VMDEMO.png)
+# VM Table
+![VM Table output](../VM%20TABLE.png)
+
+# VM Demo
+![VM Demo script](../VMDEMO.png)

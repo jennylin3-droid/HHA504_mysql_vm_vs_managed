@@ -1,9 +1,10 @@
-#sql cloud overview
-HHA504_mysql_vm_vs_managed/screenshots/MYSQLOV.png
 
-#sql network
-![network](SQLnetwork.png)
+# SQL Cloud Overview
+![SQL Cloud Overview](../MYSQLOV.png)
 
-#sql user 
-![user](sqluser.png)
+# SQL Network
+![SQL Network settings](../SQLnetwork.png)
+
+# SQL User
+![SQL User setup](../sqluser.png)
 
