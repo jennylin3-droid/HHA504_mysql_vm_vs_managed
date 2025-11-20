@@ -1,12 +1,11 @@
-Cloud & Region
 
-Cloud: Google Cloud Platform (GCP)
+# HHA504_mysql_vm_vs_managed
 
-Region: us-central1
+This repo contains my homework comparing MySQL on a VM vs Managed MySQL (Cloud SQL).  
+I used **Google Cloud (GCP)** in region **us-east1**.
 
-Services used: Compute Engine VM (self-managed MySQL), Cloud SQL for MySQL (managed)
 
-How to Reproduce
+# How to Reproduce
 
 Create a VM (Ubuntu) on Compute Engine with ports 22 and 3306 open.
 
